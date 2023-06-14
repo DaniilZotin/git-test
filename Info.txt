@@ -2,9 +2,3 @@ Hello my name is Daniil
 Hi hi i am a stranger )
 
 Form the lines
-for delete commit info
-new info for current commit
-more info for current commit
-jim jim jim
-info for me 
-add new info for reset info about project
